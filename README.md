@@ -11,8 +11,8 @@ This repo will contains the code for our paper *"A Learning Paradigm for Selecti
 - tensorboardX 2.14
 
 ### Dataset
-- Download [Saliency4ASD](https://saliency4asd.ls2n.fr/datasets/) dataset
-- Process the Saliency4ASD as 
+- Download [Saliency4ASD](https://saliency4asd.ls2n.fr/datasets/) dataset.
+- Process the Saliency4ASD to format the subject with multi scanpaths.
 
 ### Run
 - **Stage1** *Proxy Model Training*
