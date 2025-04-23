@@ -28,7 +28,7 @@ This repo will contains the code for our paper *"A Learning Paradigm for Selecti
 - **Stage3** *Iterative Learning for Discrimination Purification*
   Iterative train the proxy model to purify discrimination scores.
   ```
-  python train_disc.py
+  python train_iter.py
   ```
 - **Stage4** *Stimulus Selection Evaluation*
   Re-train the scanpath-based recognition model with the selected stimuli according to discrimination scores. Test the recognition model to verify effectiveness discrimination score.
